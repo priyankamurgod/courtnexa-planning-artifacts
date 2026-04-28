@@ -1,7 +1,7 @@
 # Court Booking & Session Management (v1)
 **Product:** Courtnexa  
-**Author:** [Your Name]  
-**Date:** [Insert Date]  
+**Author:** Priyanka Murgod 
+**Date:** 28 April, 2026  
 **Status:** Draft v1  
 
 ---
